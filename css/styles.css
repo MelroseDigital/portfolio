@@ -5069,7 +5069,7 @@ textarea.form-control-lg {
   border-radius: 0.25rem;
 }
 
-.list-group-numbered {
+.list-style:none; {
   list-style-type: none;
   counter-reset: section;
 }
